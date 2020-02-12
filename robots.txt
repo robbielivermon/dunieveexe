@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gumievuso.shil.ch/sitemap.xml
